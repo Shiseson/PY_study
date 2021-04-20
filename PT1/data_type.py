@@ -15,6 +15,7 @@ False
 (3, 4, 5)
 ("Hello", "World")
 # 集合 Set
+# 集合 Set 無順序的資料集合
 {3, 4, 5}
 {"Hello", "World"}
 # 字典 Dictionary
